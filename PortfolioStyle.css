@@ -1,0 +1,30 @@
+p{color: rgb(0, 111, 65); text-align: center;}
+
+a:hover{font-style: italic;}
+
+.LargeText{font-size: x-large;}
+.WhiteText{color: lightcyan;}
+.DarkCyan{color: darkcyan;}
+.CadetBlue{color: cadetblue;}
+.DarkSlateGray{color: darkslategray;}
+.SteelBlue{color: steelblue;}
+.DarkSlateBlue{color: darkslateblue;}
+.LightSeaGreen{color: lightseagreen;}
+.LightSteelBlue{color: lightsteelblue;}
+.DarkGreen{color: rgb(26, 112, 63);}
+.BlueGreen{color: rgb(1, 17, 24);}
+
+.Buttons{padding: 5px; border: 12px; margin: 3px;}
+.CarouselImages{height: 600px; width: 600px;}
+.CardImage{width:300px;}
+
+.ProfImg{height: 200px; width: 200px;}
+.ImageOpacity{opacity: 90%;}
+.ImageOpacity:hover{opacity: 100%;}
+.MainImage{height: 300px; 
+    width: 230px;
+    padding: 5px;
+    border: 1px black solid;
+    border-radius: 5px}
+.IconImage{ margin-right: 100px; margin-left: 100px;margin-bottom: 30px; filter: grayscale();}
+.IconImage:hover{filter: none;}
